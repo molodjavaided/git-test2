@@ -10,3 +10,4 @@
 9. git branch develop - создаем новую ветку
 10. git checkout develop - переключаемся с ветки brach на ветку develop
 11. git merge - слияние веток через терминал
+12. git branch -d feature/main-page - удаление ветки (которую мы создавали и переносили из нее код в главную ветку)
