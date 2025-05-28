@@ -9,3 +9,4 @@
 8. git branch - показывает все ветки
 9. git branch develop - создаем новую ветку
 10. git checkout develop - переключаемся с ветки brach на ветку develop
+11. git merge - слияние веток через терминал
